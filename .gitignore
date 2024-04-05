@@ -37,3 +37,9 @@ build/
 # Environment-specific files
 .env
 .env.*
+
+# Installer folders
+snake-game-macos/
+snake-game-windows/
+snake-game-linux/
+snake_game.spec
