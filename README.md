@@ -25,7 +25,7 @@ These instructions will help you get the game up and running on your local machi
 
 ### Installation
 
-1. Clone the repository: https://github.com/your-username/snake-game.git
+1. Clone the repository: https://github.com/ParsaZa79/CW-Snake-Game.git
 
 2. Navigate to the project directory:
 ```bash
